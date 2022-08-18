@@ -1,10 +1,10 @@
 # Visual Studio
 .vs/
-Bin/
+x64/
 
 *.sln
 *.vcxproj
 *.vcxproj.filters
 
 # Includes
-!Lib/
+Lib/
