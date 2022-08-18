@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+Bin/
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Includes
+!Lib/
